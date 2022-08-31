@@ -26,5 +26,7 @@
 
 + ##  [*FSM in Unity*](https://hyss.notion.site/Unity-6-FSM-in-Unity-c8d4a344613d4092b48328884f6c3a4b)
 
-유니티 프로그램에서 구현된 유한 상태 기계를 분석한 내용
+유니티 프로그램에서 구현된 유한 상태 기계를 분석한 내용.
 
++ ## [*Behavior Tree*](https://hyss.notion.site/Unity-7-Behavior-Tree-16cc77de47984976ac001de6761042e1)
+유니티에서 행동 트리를 구현한 것.
