@@ -31,5 +31,5 @@
 + ## [*Behavior Tree 1*](https://hyss.notion.site/Unity-7-Behavior-Tree-16cc77de47984976ac001de6761042e1)
 유니티 행동 트리에 사용되는 노드의 설명과 실제 구현
 
-+ ## [*Brgavior Tree 2*](https://hyss.notion.site/Unity-8-Behavior-Tree-2-536644272624407a89cd0d2184757126)
++ ## [*Brhavior Tree 2*](https://hyss.notion.site/Unity-8-Behavior-Tree-2-536644272624407a89cd0d2184757126)
 행동 트리 심화
